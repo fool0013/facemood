@@ -1,0 +1,8 @@
+tensorflow==2.19.1
+tf-keras==2.19.0
+numpy
+opencv-python
+mediapipe
+deepface
+retina-face
+pynput
